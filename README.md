@@ -1,11 +1,12 @@
-# ELASTIC-HACKATON: AI-POWERED OBSERVABILITY
-**Lead Architect:** Otto Napoleon Mendoza Quant
-**Project Status:** ⚡ Deployment Phase (Termux Mobile Terminal)
+# ELASTIC-HACKATON: AGENTIC SECURITY AUDITING
+**Lead Architect:** Otto Napoleon Mendoza Quant  
+**Engine:** ElasticSearch Vector Engine + AI Agents  
+**Platform:** Termux Mobile Deployment
 
-## 🛡️ MISSION
-Integrating ElasticSearch high-performance indexing with AI-driven security auditing. This project demonstrates how to orchestrate elastic clusters from a mobile environment.
+## ⚡ ARCHITECTURE: DUAL-AGENT FLOW
+This project implements a mobile-first security observability flow:
+1. **Elastic Agent:** Handles low-level cluster communication.
+2. **Audit Flow:** Orchestrates data ingestion and real-time risk analysis.
 
-## 🛠️ TECH STACK
-* **Environment:** Termux (Linux-on-Android)
-* **Engine:** ElasticSearch + Python 3.11
-* **Orchestration:** Shadow Architect
+---
+© 2026 | OTTONQQ Deployment | Elastic Hackathon

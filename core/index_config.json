@@ -1,0 +1,14 @@
+{
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0
+  },
+  "mappings": {
+    "properties": {
+      "timestamp": { "type": "date" },
+      "architect": { "type": "keyword" },
+      "security_event": { "type": "text" },
+      "risk_level": { "type": "integer" }
+    }
+  }
+}
